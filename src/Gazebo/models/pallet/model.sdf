@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <model name="pallet">
+    <static>true</static>
+    <link name="pallet_link">
+
+      <!-- Top surface: 1200x1000mm (green) -->
+      <visual name="top_surface">
+        <pose>0 0 0.15 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>1.2 1.0 0.01</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 1</ambient>
+          <diffuse>0.2 0.8 0.2 1</diffuse>
+        </material>
+      </visual>
+
+      <!-- Front face (camera facing): 1200x150mm (blue) -->
+      <!-- Located at Y = -0.5 (front side facing camera) -->
+      <visual name="front_face">
+        <pose>0 -0.505 0.075 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>1.2 0.01 0.15</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.0 0.0 1.0 1</ambient>
+          <diffuse>0.0 0.0 1.0 1</diffuse>
+        </material>
+      </visual>
+
+      <!-- Back face: 1200x150mm (BLUE - camera facing) -->
+      <visual name="back_face">
+        <pose>0 0.505 0.075 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>1.2 0.01 0.15</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.0 0.0 1.0 1</ambient>
+          <diffuse>0.0 0.0 1.0 1</diffuse>
+        </material>
+      </visual>
+
+      <!-- Left side face: 1000x150mm (green) -->
+      <visual name="left_face">
+        <pose>-0.605 0 0.075 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.01 1.0 0.15</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 1</ambient>
+          <diffuse>0.2 0.8 0.2 1</diffuse>
+        </material>
+      </visual>
+
+      <!-- Right side face: 1000x150mm (BLUE - camera facing) -->
+      <visual name="right_face">
+        <pose>0.605 0 0.075 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.01 1.0 0.15</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.0 0.0 1.0 1</ambient>
+          <diffuse>0.0 0.0 1.0 1</diffuse>
+        </material>
+      </visual>
+
+      <!-- Collision (full box) -->
+      <collision name="pallet_collision">
+        <pose>0 0 0.075 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>1.2 1.0 0.15</size>
+          </box>
+        </geometry>
+      </collision>
+
+    </link>
+  </model>
+</sdf>

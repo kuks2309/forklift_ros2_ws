@@ -1,0 +1,11 @@
+# Green Pallet Segmentation Dataset
+# YOLOv8 Segmentation Training Configuration
+
+path: /home/amap/forklift_ros2_ws/src/AI/Palette/green_pallet_dataset/green_pallet_yolo_label
+train: images/train
+val: images/val
+
+# Classes
+nc: 1
+names:
+  0: Pallet

@@ -1,0 +1,24 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# IDE
+.idea/
+.vscode/browse.vc.db*
+
+# Large files
+*.pt
+*.zip
+
+# Images (captured)
+src/AI/ds435_stereo_view/images/left/
+src/AI/ds435_stereo_view/images/right/
+src/AI/ds435_stereo_view/images/color/
+src/AI/ds435_stereo_view/images/depth/
