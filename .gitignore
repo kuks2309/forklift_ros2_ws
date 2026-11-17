@@ -22,3 +22,8 @@ src/AI/ds435_stereo_view/images/left/
 src/AI/ds435_stereo_view/images/right/
 src/AI/ds435_stereo_view/images/color/
 src/AI/ds435_stereo_view/images/depth/
+docs/user_instructions/sessions/
+.claude/settings.json.bak
+
+# debt 번들: OMC 런타임 상태 비추적
+.omc/
