@@ -1,0 +1,786 @@
+                       60W Reliable Railway DC-DC Converter                                   R S D - 6 0 series
+                                                                                                                          User’s Manual
+
+
+
+
+                                                                                                                            Click Me
+
+
+
+
+  UL62368-1   AS/NZS62368-1 TPTC004   IEC62368-1
+
+
+■                                                                        ■ 
+‧                                ‧ 
+                                                            ‧
+‧                                          
+‧                                                            ‧ 
+‧                                                        ‧
+‧                         ‧
+                                                       
+‧
+‧                              ■ 
+‧℃                                                    https://www.meanwell.com/serviceGTIN.aspx
+‧
+‧
+‧
+
+■ 
+     
+     
+     
+     
+     
+     ℃
+     
+     
+     
+
+
+■ 
+       
+
+                                           
+                                           
+                                           
+                                           
+                                                                                                           File Name:RSD-60-SPEC 2026-07-09
+                       60W Reliable Railway DC-DC Converter                                                                      R S D - 6 0 series
+SPECIFICATION
+MODEL                                      RSD-60G-3.3       RSD-60G-5       RSD-60G-12       RSD-60G-24       RSD-60L-3.3      RSD-60L-5         RSD-60L-12       RSD-60L-24
+             DC VOLTAGE                    3.3V              5V              12V              24V              3.3V             5V                12V              24V
+             RATED CURRENT                 12A               12A             5A               2.5A             12A              12A               5A               2.5A
+             CURRENT RANGE                 0 ~ 12A           0 ~ 12A         0 ~ 5A           0 ~ 2.5A         0 ~ 12A          0 ~ 12A           0 ~ 5A           0 ~ 2.5A
+             RATED POWER                   39.6W             60W             60W              60W              39.6W            60W               60W              60W
+             RIPPLE & NOISE (max.) Note.2 60mVp-p            100mVp-p        50mVp-p          50mVp-p          60mVp-p          60mVp-p           50mVp-p          50mVp-p
+OUTPUT
+             VOLTAGE TOLERANCE Note.3 ±2.0%                  ±2.0%           ±2.0%            ±2.0%            ±2.0%            ±2.0%             ±2.0%            ±2.0%
+             LINE REGULATION               ±0.5%             ±0.5%           ±0.3%            ±0.2%            ±0.5%            ±0.5%             ±0.3%            ±0.2%
+             LOAD REGULATION               ±0.5%             ±0.5%           ±0.3%            ±0.2%            ±0.5%            ±0.5%             ±0.3%            ±0.2%
+             SETUP, RISE TIME              100ms, 60ms at full load
+             HOLD UP TIME (Typ.)           Please refer to page 5 Hold up Time( Load de-rating curve )
+             VOLTAGE RANGE CONTINUOUS 9 ~ 36VDC                                                                18 ~ 72VDC
+             EFFICIENCY (Typ.)             86.5%             88%             92%              90%              88.5%            89%               93%               91.5%
+             DC CURRENT (Typ.)             2.1A/24VDC        3A/24VDC                                          0.95A/48VDC      1.5A/48VDC
+INPUT
+             INRUSH CURRENT (Typ.)         20A/24VDC                                                           20A/48VDC
+             INTERRUPTION OF VOLTAGE SUPPLY EN50155:2021-Comply with S1 level
+                                           105 ~ 135% rated output power
+             OVERLOAD
+                                           Protection type : Constant current limiting, recovers automatically after fault condition is removed
+PROTECTION
+                                           4.3 ~ 5.3V        5.75 ~ 7V       13.8 ~ 16.2V     27.6 ~ 32.4V     4.3 ~ 4.95V      5.75 ~ 7V         13.8 ~ 16.2V      27.6 ~ 32.4V
+             OVER VOLTAGE
+                                           Protection type : Shut down o/p voltage, re-power on to recover
+             WORKING TEMP.                 -40 ~ +55℃ (no derating) ; +70℃ @ 60% load by free air convection ; +70℃ (no derating with external base plate)
+            WORKING HUMIDITY               5 ~ 95% RH non-condensing
+ENVIRONMENT STORAGE TEMP.                  -40 ~ +85℃
+            TEMP. COEFFICIENT              ±0.03%/℃ (0 ~ 50℃)
+            VIBRATION                      10 ~ 500Hz, 5G 10min./1cycle, 60min. each along X, Y, Z axes ; Mounting : compliance to IEC61373
+             OPERATING ALTITUDE            5000 meters
+             SAFETY STANDARDS              IEC 62368-1, UL 62368-1, AS/NZS 62368-1, EAC TP TC 004 approved, Design refer to BS EN/EN62368-1
+             WITHSTAND VOLTAGE             I/P-O/P:4KVDC       I/P-FG:2.5KVDC      O/P-FG:2.5KVDC
+             ISOLATION RESISTANCE          I/P-O/P, I/P-FG, O/P-FG:100M Ohms / 500VDC / 25℃/ 70% RH
+                                            Parameter                              Standard                                           Test Level / Note
+                                           Conducted                                    BS EN/EN55032                                 Class A
+                                           Radiated                                     BS EN/EN55032                                 Class B
+             EMC EMISSION                  Harmonic Current                             BS EN/EN61000-3-2                             -----
+SAFETY &                                   Voltage Flicker                              BS EN/EN61000-3-3                             -----
+EMC                                        BS EN/EN55035
+(Note 4)
+                                           Parameter                                    Standard                                      Test Level / Note
+                                           ESD                                          BS EN/EN61000-4-2                             Level 3, ±8KV air ; Level 3, ±6KV contact
+                                           Radiated Field                               BS EN/EN61000-4-3                             Level X, 20V/m
+             EMC IMMUNITY
+                                           EFT / Burst                                  BS EN/EN61000-4-4                             Level 3, 2KV at power
+                                           Surge                                        BS EN/EN61000-4-5                             Level 3,1KV Line-Line, Level 3, 2KV Line-Earth
+                                           Conducted                                    BS EN/EN61000-4-6                             Level 3
+                                           Compliance to BS EN/EN45545-2 for fire protection ; BS EN/EN50155 / IEC60571 including IEC61373 for shock & vibration,
+             RAILWAY STANDARD              BS EN/EN50121-3-2 for EMC
+             MTBF                          2738.8K hrs min. Telcordia SR-332 (Bellcore) ; 593.9K hrs min.         MIL-HDBK-217F (25℃)
+OTHERS       DIMENSION                     128*60*25mm (L*W*H)
+             PACKING                       0.29Kg; 48pcs/14.9Kg/0.75CUFT
+             ℃
+             μFμF
+             
+             
+NOTE           
+             
+             (as available on https://www.meanwell.com//Upload/PDF/EMI_statement_en.pdf )
+             
+             ℃℃
+             ※：https://www.meanwell.com/serviceDisclaimer.aspx
+
+
+
+
+                                                                                                                                                  File Name:RSD-60-SPEC 2026-07-09
+                       60W Reliable Railway DC-DC Converter                                                                      R S D - 6 0 series
+SPECIFICATION
+MODEL                                      RSD-60H-3.3                       RSD-60H-5                         RSD-60H-12                         RSD-60H-24
+             DC VOLTAGE                    3.3V                              5V                                12V                                24V
+             RATED CURRENT                 12A                               12A                               5A                                 2.5A
+             CURRENT RANGE                 0 ~ 12A                           0 ~ 12A                           0 ~ 5A                             0 ~ 2.5A
+             RATED POWER                   39.6W                             60W                               60W                                60W
+             RIPPLE & NOISE (max.) Note.2 80mVp-p                            60mVp-p                           50mVp-p                            50mVp-p
+OUTPUT
+             VOLTAGE TOLERANCE Note.3 ±2.0%                                  ±2.0%                             ±2.0%                              ±2.0%
+             LINE REGULATION               ±0.5%                             ±0.5%                             ±0.3%                              ±0.2%
+             LOAD REGULATION               ±0.5%                             ±0.5%                             ±0.3%                              ±0.2%
+             SETUP, RISE TIME              100ms, 60ms at full load
+             HOLD UP TIME (Typ.)           Please refer to page 5 Hold up Time( Load de-rating curve )
+             VOLTAGE RANGE CONTINUOUS 40 ~ 160VDC
+             EFFICIENCY (Typ.)             87.5%                             89%                               92.5%                              91.5%
+INPUT        DC CURRENT (Typ.)              0.415A/110VDC              0.62A/110V
+             INRUSH CURRENT (Typ.)          20A/110VDC
+             INTERRUPTION OF VOLTAGE SUPPLY EN50155:2021-Comply with S1 level
+                                           105 ~ 135% rated output power
+             OVERLOAD
+                                           Protection type : Constant current limiting, recovers automatically after fault condition is removed
+PROTECTION
+                                           4.3 ~ 4.95V                       5.75 ~ 7V                         13.8 ~ 16.2V                       27.6 ~ 32.4V
+             OVER VOLTAGE
+                                           Protection type : Shut down o/p voltage, re-power on to recover
+             WORKING TEMP.                 -40 ~ +55℃ (no derating) ; +70℃ @ 60% load by free air convection ; +70℃ (no derating with external base plate)
+            WORKING HUMIDITY               5 ~ 95% RH non-condensing
+ENVIRONMENT STORAGE TEMP.                  -40 ~ +85℃
+            TEMP. COEFFICIENT              ±0.03%/℃ (0 ~ 50℃)
+            VIBRATION                      10 ~ 500Hz, 5G 10min./1cycle, 60min. each along X, Y, Z axes ; Mounting : compliance to IEC61373
+             OPERATING ALTITUDE            5000 meters
+             SAFETY STANDARDS              IEC 62368-1, UL 62368-1, AS/NZS 62368-1, EAC TP TC 004 approved, Design refer to BS EN/EN62368-1
+             WITHSTAND VOLTAGE             I/P-O/P:4KVDC      I/P-FG:2.5KVDC       O/P-FG:2.5KVDC
+             ISOLATION RESISTANCE          I/P-O/P, I/P-FG, O/P-FG:100M Ohms / 500VDC / 25℃/ 70% RH
+                                            Parameter                              Standard                                          Test Level / Note
+                                           Conducted                                     BS EN/EN55032                               Class A
+                                           Radiated                                      BS EN/EN55032                               Class B
+             EMC EMISSION
+SAFETY &                                   Harmonic Current                              BS EN/EN61000-3-2                           -----
+                                           Voltage Flicker                               BS EN/EN61000-3-3                           -----
+EMC
+(Note 4)                                   BS EN/EN55035
+                                           Parameter                                     Standard                                    Test Level / Note
+                                           ESD                                           BS EN/EN61000-4-2                           Level 3, ±8KV air ; Level 3, ±6KV contact
+                                           Radiated Field                                BS EN/EN61000-4-3                           Level X, 20V/m
+             EMC IMMUNITY
+                                           EFT / Burst                                   BS EN/EN61000-4-4                           Level 3, 2KV at power
+                                           Surge                                         BS EN/EN61000-4-5                           Level 3,1KV Line-Line, Level 3, 2KV Line-Earth
+                                           Conducted                                     BS EN/EN61000-4-6                           Level 3
+                                           Compliance to BS EN/EN45545-2 for fire protection ; BS EN/EN50155 / IEC60571 including IEC61373 for shock & vibration,
+             RAILWAY STANDARD
+                                           BS EN/EN50121-3-2 for EMC
+             MTBF                          2738.8K hrs min. Telcordia SR-332 (Bellcore) ; 593.9K hrs min.           MIL-HDBK-217F (25℃)
+OTHERS       DIMENSION                     128*60*25mm (L*W*H)
+             PACKING                       0.29Kg; 48pcs/14.9Kg/0.75CUFT
+             ℃
+             μFμF
+             
+             
+NOTE           
+             
+             (as available on https://www.meanwell.com//Upload/PDF/EMI_statement_en.pdf )
+             
+             ℃℃
+             ※：https://www.meanwell.com/serviceDisclaimer.aspx
+
+
+
+
+                                                                                                                                                  File Name:RSD-60-SPEC 2026-07-09
+                                     60W Reliable Railway DC-DC Converter                                                                                                R S D - 6 0 series
+ Block Diagram
+                                                                                                                                                                                                      fosc : 130KHz
+
+
+                                             EMI                           RECTIFIERS                                POWER                            RECTIFIERS                                            +V
+                    I/P                     FILTER                              &                                   SWITCHING                             &
+                                                                                                                                                                                                            -V
+                                                                             FILTER                                                                     FILTER
+
+
+
+                    FG                                                                                                                                      DETECTION
+                                                                                                                     PWM                                     CIRCUIT
+                                                                                            O.L.P.                  CONTROL
+
+                                                                                                                                             O.V.P.
+
+
+
+
+ Input Fuse
+ There is one fuse connected in series to the positive input line, which is used to protect against abnormal surge. Fuse specifications of each
+     model are shown as below.
+
+      Type                      Fuse Type                       Reference and Rating
+          G                     Time-Lag                  CONQUE MST, 10A, 250V
+          L                     Time-Lag                  CONQUE MST, 5A, 250V
+          H                     Time-Lag                  CONQUE MST, 2.5A, 250V
+
+
+
+ Input Reverse Polarity Protection
+ There is a MOSFET connected in series to the negative input line. If the input polarity is connected reversely, the MOSFET opens and there
+     will be no output to protect the unit.
+
+ Input Range and Transient Ability
+ The series has a wide range input capability. With ±40% of rated input voltage, it can withstand that for 1 second.
+
+
+ Input Under-Voltage Protection
+ If input voltage drops below Vimin, the internal control IC shuts down and there is no output voltage. It recovers automatically when input
+ voltage reaches above Vimin,please refer to the cruve below.
+
+RSD-60G-24                                                                   RSD-60L-24                                                                   RSD-60H-24
+Vo   30                                                                      Vo   30                                                                      Vo   30
+
+     25                                                                           25                                                                           25
+
+     20                                                                           20                                                                           20
+
+     15                                                         Turn On           15                                                       Turn On             15                                                       Turn On
+                                                                Turn Off                                                                   Turn Off                                                                     Turn Off
+     10                                                                           10                                                                           10
+
+      5                                                                           5                                                                            5
+              6.3         8.3                                                               12.3        16.3                                                             25.5        37
+      0                                                   Vin                     0                                                  Vin                       0                                                  Vin
+          6          8          10     12    14      16                                12          16          20   24   28     32                                  24          32        40         48      56
+
+
+
+
+ Inrush Current
+ Inrush current is suppressed by a resistor during the initial start-up, and then the resistor is bypassed by a MOSFET to reduce power
+ consumption after accomplishing the start-up.
+
+
+
+
+                                                                                                                                                                                               File Name:RSD-60-SPEC 2026-07-09
+                        60W Reliable Railway DC-DC Converter                                     R S D - 6 0 series
+Hold-up Time
+
+
+
+
+  RSD-60G-3.3                                                   RSD-60G-5
+                                                                      100%
+    100%                                                               90%
+     90%                                                               80%
+     80%                                                               70%
+     70%                                                               60%
+ LOAD
+
+
+
+
+                                                               LOAD
+     60%                                                               50%
+     50%                                                               40%
+     40%                                                               30%
+     30%                                                               20%
+     20%                                                               10%
+     10%                                                                0%
+      0%                                                                     0ms   10ms 20ms 30ms 40ms 50ms 60ms 70ms 80ms
+           0ms       10ms 20ms 30ms 40ms 50ms 60ms 70ms 80ms
+                                  TIME                                                          TIME
+
+
+
+
+    RSD-60G-12                                                         RSD-60G-24
+
+        100%                                                          100%
+         90%                                                           90%
+         80%                                                           80%
+         70%                                                           70%
+         60%                                                           60%
+ LOAD
+
+
+
+
+                                                               LOAD
+
+
+
+
+         50%                                                           50%
+         40%                                                           40%
+         30%                                                           30%
+         20%                                                           20%
+         10%                                                           10%
+          0%                                                            0%
+               0ms   10ms 20ms 30ms 40ms 50ms 60ms 70ms 80ms                 0ms   10ms 20ms 30ms 40ms 50ms 60ms 70ms 80ms
+
+                                  TIME                                                          TIME
+
+
+
+
+                                                                                                            File Name:RSD-60-SPEC 2026-07-09
+                                         60W Reliable Railway DC-DC Converter                                                                                                                                      R S D - 6 0 series
+Efficiency vs Load & Vin Curve
+The efficiency vs load & Vin curves of each model are shown as below.
+              RSD-60G-3.3                                                                                         RSD-60G-5                                                                                RSD-60G-12
+              96%                                                                                                 96%                                                                                      96%
+              92%                                                                                                 92%                                                                                      92%
+ EFFICIENCY
+
+
+
+
+                                                                                                     EFFICIENCY
+
+
+
+
+                                                                                                                                                                                              EFFICIENCY
+              88%                                                                                                 88%                                                                                      88%
+              84%                                                                                                 84%                                                                                      84%
+              80%                                                                            36VDC                80%                                                                36VDC                 80%                                                                  36VDC
+
+              76%                                                                            24VDC                                                                                   24VDC                 76%                                                                  24VDC
+                                                                                                                  76%
+                                                                                             9VDC                                                                                    9VDC                                                                                       9VDC
+              72%                                                                                                 72%                                                                                      72%
+              68%                                                                                                 68%                                                                                      68%
+              64%                                                                                                 64%                                                                                      64%
+                    10%   20%    30%   40%   50%   60%       70%   80%   90%   100%                                     10%   20%   30%   40%   50%   60%   70%   80%   90%   100%                               10%   20%   30%   40%   50%   60%   70%   80%   90%   100%
+
+                                             LOAD                                                                                               LOAD                                                                                     LOAD
+
+              RSD-60G-24                                                                                          RSD-60L-3.3                                                                              RSD-60L-5
+              96%                                                                                                 96%                                                                                      96%
+              92%                                                                                                 92%                                                                                      92%
+ EFFICIENCY
+
+
+
+
+                                                                                                     EFFICIENCY
+
+
+
+
+                                                                                                                                                                                              EFFICIENCY
+              88%                                                                                                 88%                                                                                      88%
+              84%                                                                                                 84%                                                                                      84%
+              80%                                                                          36VDC                  80%                                                                72VDC                 80%                                                                  72VDC
+
+              76%                                                                          24VDC                  76%                                                                48VDC                                                                                      48VDC
+                                                                                                                                                                                                           76%
+                                                                                           9VDC                                                                                      18VDC                                                                                      18VDC
+              72%                                                                                                 72%                                                                                      72%
+              68%                                                                                                 68%                                                                                      68%
+              64%                                                                                                 64%                                                                                      64%
+                    10%   20%    30%   40%   50%   60%       70%   80%   90%   100%                                     10%   20%   30%   40%   50%   60%   70%   80%   90%   100%                               10%   20%   30%   40%   50%   60%   70%   80%   90%   100%
+
+                                             LOAD                                                                                               LOAD                                                                                     LOAD
+
+              RSD-60L-12                                                                                          RSD-60L-24                                                                               RSD-60H-3.3
+              96%                                                                                                 96%                                                                                      96%
+              92%                                                                                                 92%                                                                                      92%
+              88%                                                                                                 88%                                                                                      88%
+ EFFICIENCY
+
+
+
+
+                                                                                                     EFFICIENCY
+
+
+
+
+                                                                                                                                                                                              EFFICIENCY
+              84%                                                                                                 84%                                                                                      84%
+              80%                                                                            72VDC                80%                                                                72VDC                 80%                                                                160VDC
+
+              76%                                                                            48VDC                76%                                                                48VDC                 76%                                                                110VDC
+                                                                                             18VDC                                                                                   18VDC                                                                                    40VDC
+              72%                                                                                                 72%                                                                                      72%
+              68%                                                                                                 68%                                                                                      68%
+              64%                                                                                                 64%                                                                                      64%
+                    10%   20%    30%   40%   50%   60%       70%   80%   90%   100%                                     10%   20%   30%   40%   50%   60%   70%   80%   90%   100%                               10%   20%   30%   40%   50%   60%   70%   80%   90% 100%
+
+                                             LOAD                                                                                               LOAD                                                                                     LOAD
+
+              RSD-60H-5                                                                                           RSD-60H-12                                                                               RSD-60H-24
+              96%                                                                                                 96%                                                                                      96%
+              92%                                                                                                 92%                                                                                      92%
+ EFFICIENCY
+
+
+
+
+                                                                                                     EFFICIENCY
+
+
+
+
+                                                                                                                                                                                              EFFICIENCY
+
+
+
+
+              88%                                                                                                 88%                                                                                      88%
+              84%                                                                                                 84%                                                                                      84%
+              80%                                                                           160VDC                80%                                                                160VDC                80%                                                                160VDC
+
+              76%                                                                           110VDC                76%                                                                110VDC                76%                                                                110VDC
+                                                                                            40VDC                                                                                    40VDC                                                                                    40VDC
+              72%                                                                                                 72%                                                                                      72%
+              68%                                                                                                 68%                                                                                      68%
+              64%                                                                                                 64%                                                                                      64%
+                    10%   20%    30%   40%   50%   60%       70%   80%   90%   100%                                     10%   20%   30%   40%   50%   60%   70%   80%   90%   100%                               10%   20%   30%   40%   50%   60%   70%   80%   90%   100%
+
+                                             LOAD                                                                                               LOAD                                                                                     LOAD
+
+
+Parallel and Series Connection
+A.Operation in Parallel
+    Since RSD-60 series don't have built-in parallel circuit, it can only use external circuits to achieve the redundant operation but not increase the current rating.
+1.Add a diode at the positive-output of each power supply (as shown as below), the current rating of the diode should be larger than the maximum output current rating
+    and attached to a suitable heat sink. This is only for redundant use (increase the reliability of the system) and users have to check suitability of the circuit by themselves.
+
+                                       I/P               +
+                          E IN               PS1                   D1                 RL
+                                       I/P               -
+
+
+                                       I/P               +
+                                             PS2                   D2
+                                       I/P               -
+
+
+2.When using S.P.S. in parallel connection, the leakage current will increase at the same time. This could pose as a shock hazard for the user. So please contact the
+    supplier if you have this kind of application.
+B.Operation in Series
+RSD-60 can be operated in series. Here are the methods of doing it:
+1.Positive and negative terminals are connected as shown as below. According to the connection, you can get the positive and negative output voltages for your loads.
+
+                                       I/P               +                            +V
+                          E IN               PS1                               RL
+                                       I/P               -
+                                                                                      COM
+                                       I/P               +
+                                             PS2                               RL
+                                       I/P               -                            -V
+
+                                                                                                                                                                                                                                          File Name:RSD-60-SPEC 2026-07-09
+                              60W Reliable Railway DC-DC Converter                                                                                      R S D - 6 0 series
+2.Increase the output voltage (current does not change). Because RSD-60 series have no reverse blocking diode in the unit, you should add an external blocking diode
+    to prevent the damage of every unit while starting up. The voltage rating of the external diode should be larger than V1+V2 (as shown as below).
+
+                            I/P              +                    +V
+                    E IN          PS1            V1     D1
+                            I/P              -
+                                                        V1+V2 R L
+                            I/P              +
+                                  PS2            V2     D2
+                            I/P              -                    -V
+
+
+Overload Protection
+If the output draw up to 105~135% of its output power rating, the converter will go into overload protection which is constant current mode. After the faulty condition
+is removed, it will recover automatically. Please refer to the diagram below for the detail operation characteristic. Please note that it's not suitable to operate within
+the overload region continuously, or it may cause to over temperature and reduce the life of the power supply unit or even damage it.
+
+           Vo(%)
+
+
+       100
+
+
+
+
+                                  Overload
+           50                      region
+
+
+
+
+                                                                                 Io(%)
+                0            50                   100                  150
+
+
+
+Over Voltage Protection
+The converter shuts off to protect itself when the output voltage drawn exceeds 115~140% of its output rating. It must be repowered on to recover.
+
+LED Indicator
+Equipped with a built-in LED indicator, the converter provides an easy way for users to check its condition through the LED indicator.
+Green : normal operation; No signal: no power or failure.
+
+Derating Curve
+a.Single unit operation
+    If the unit has no iron plate mounted on its bottom, the maximum ambient temperature for the unit will be 55℃ as operating under full load condition. It requires
+    de-rating output current when ambient temperature is between 55~70℃, please refer to the de-rating curve as below.
+
+
+
+                                                                                                                               (Others)
+           100                                                                                                        100
+                                                                                                                       90
+            80                                                                                                         80                 (G/L/H 5V)
+
+                                                                                                                       70
+            60                                                                                                         60
+                                                                                                                       50
+                                                                                                           LOAD (%)
+
+
+
+
+                           G:Vin ≥ 24V
+LOAD (%)
+
+
+
+
+            40             L:Vin ≥ 48V                                                                                 40
+                           H:Vin ≥ 110V
+            20                                                                                                         20
+
+
+
+                -40 -35       0         10        20         30    40        50 55 60    70 (HORIZONTAL)               G:9V      18V                                             (HORIZONTAL)
+                                                                                                                       L:18V     36V
+                                                                                                                       H:40V     80V
+                                  AMBIENT TEMPERATURE (℃)                                                                                        INPUT VOLTAGE (VDC)
+
+
+
+
+                                                                                                                                                                   File Name:RSD-60-SPEC 2026-07-09
+                                        60W Reliable Railway DC-DC Converter                                                             R S D - 6 0 series
+                       100
+   RATED CURRENT (%)
+
+
+
+
+                        80
+
+
+                        60
+
+
+                        40
+
+
+                        20
+
+
+
+                         -30        0            10   20      30       40    50    60    70     80   (HORIZONTAL)
+
+                                                            Tcase (℃)
+
+   Suitable installation methods are shown as below. Since RSD-60 is a semi-potted model, its thermal performances for the following installation methods are similar
+   and share the same derating curve.
+
+
+
+
+   b.Operate with additional iron plate
+                If it is necessary to fulfil the requirements of EN50155 TX level that operate the unit fully-loaded at 70℃, RSD-60 series must be installed onto an iron plate on
+                the bottom. The size of the suggested iron plate is shown as below. In order for optimal thermal performance, the iron plate must have an even & smooth surface
+                and RSD-60 series must be firmly mounted at the center of the iron plate.
+
+                                                                                                                Unit:mm
+                                                                                              M3*4
+
+
+
+
+                                             0
+                                        36
+                                                                                                                    2
+
+
+
+
+                                                            360
+
+
+
+
+The load vs ambient temperature curve is shown as below.
+
+
+                         100
+
+
+                             80
+
+
+                             60
+LOAD (%)
+
+
+
+
+                             40
+
+
+                             20
+
+
+
+                              -40   0            10    20         30    40    50    60    70   (HORIZONTAL)
+
+
+                                         AMBIENT TEMPERATURE (℃)
+
+
+
+
+                                                                                                                                                        File Name:RSD-60-SPEC 2026-07-09
+                   60W Reliable Railway DC-DC Converter                                                                R S D - 6 0 series
+Suitable installation methods are shown as below. Since RSD-60 is a semi-potted model, its thermal performances for the following installation methods are similar
+and share the same derating curve.
+
+
+
+
+            iron plate
+
+
+Immunity to Environmental Conditions
+
+           Test method                                              Standard                                           Test conditions               Status
+
+                                                                                                                 Temperature: 70℃ / 85℃
+ Dry Heat Test                        EN 50155 section 13.4.5                                                                                        PASS
+                                                                                                                 Duration: 6 hrs / 10min
+
+                                                                                                                 Temperature: 25℃~55℃
+ Damp Heat Test, Cyclic               EN 50155 section 13.4.8                                                    Humidity: 90%~100% RH               PASS
+                                                                                                                 Duration: 48 hrs
+                                                                                                                 Temperature: 19℃
+ Vibration Test                       EN 50155 section 13.4.10                                                   Humidity: 65%                       PASS
+                                                                                                                 Duration: 10 mins
+                                                                                                                 Temperature: 21± 3℃
+ Shock Test                           EN 50155 section 13.4.10                                                   Humidity: 65 ± 5%                   PASS
+                                                                                                                 Duration: 30ms*18
+
+                                                                                                                 Temperature: -40℃
+ Low Temperature Storage Test         EN 50155 section 13.4.6                                                                                        PASS
+                                                                                                                 Dwell Time: 16 hrs
+
+                                                                                                                 Temperature: 35℃±2℃
+ Salt Mist Test                       EN 50155 section 13.4.13                                                                                       PASS
+                                                                                                                 Duration: 96 hrs
+
+
+
+
+EN45545-2 Fire Test Conditions
+
+                                                       Test Items                                                                Hazard Level
+                           Items                                                 Standard                            HL1              HL2              HL3
+                                                                EN 45545-2:2020
+                                     Oxygen index test                                                               PASS            PASS             PASS
+                                                                EN ISO 4589-2:2017
+                                                                EN 45545-2:2020
+                         R22         Smoke density test                                                              PASS            PASS             PASS
+                                                                EN ISO 5659-2:2017
+ PCB                                                            EN 45545-2:2020
+                                     Smoke toxicity test                                                             PASS            PASS             PASS
+                                                                EN 17084:2018
+
+                         R24         Oxygen index test          EN 45545-2:2020                                      PASS            PASS             PASS
+                                                                EN ISO 4589-2:2017
+                                                                EN 45545-2:2020
+                         R25         Glow-wire test                                                                  PASS            PASS             PASS
+                                                                EN 60695-2-11:2014
+                                                                EN 45545-2:2020
+ Potting                 R24         Oxygen index test                                                               PASS            PASS             PASS
+                                                                EN ISO 4589-2:2017
+                                                                EN 45545-2:2020
+ Termina; block          R26         Vertical flame test                                                             PASS            PASS             PASS
+                                                                EN 60695-11-10:2013
+
+
+
+
+                                                                                                                                      File Name:RSD-60-SPEC 2026-07-09
+                 60W Reliable Railway DC-DC Converter                                                     R S D - 6 0 series
+Mechanical Specification
+(Unit: mm , tolerance ± 1mm)                                                                                                         Case No.255
+                                                                  128
+
+
+                                                                  120                                     4
+
+
+
+
+                                                                                                                        4
+                                                                                                    LED
+
+
+                                          1                                                     1
+                       9.5
+
+
+
+
+                                                                                                                9.5
+
+                                                                                                                        52
+
+                                                                                                                               60
+                                                                                           O/P
+                                          2                                                   2
+                                              I/P
+                        7.5
+
+
+
+
+                                          3
+
+
+
+
+                                                                                                              4 -ψ
+                                                                                                                  3.5
+                                                                                                                 25
+                                                                            tc
+                                                                    7
+
+
+
+
+                                                                                           51
+
+
+
+
+                                                       ‧tc : Max. Case Temperature
+
+
+
+                               Input Terminal Pin No. Assignment :            Output Terminal Pin No. Assignment :
+
+                                Pin No.         Assignment                       Pin No.     Assignment
+                                   1          DC INPUT V+                           1      DC OUTPUT -V
+                                   2          DC INPUT V-                           2      DC OUTPUT +V
+                                   3          FG
+
+
+
+
+Installation Manual
+
+Please refer to : http://www.meanwell.com/manual.html
+
+
+
+
+                                                                                                                             File Name:RSD-60-SPEC 2026-07-09
+
